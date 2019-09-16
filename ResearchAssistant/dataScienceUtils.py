@@ -59,3 +59,50 @@ def plot_clusters(clusters,samples_embedded):
             plt.annotate(x,(exes[x],eyes[x]))
     plt.show()
     
+def get_HIT_HET(clusters,similarity_matrix):
+    hils=[]
+    for clusteri in clusters:
+        n=len(clusteri)
+        if n==1:
+            hils.append(1)
+        else:
+            sum=0
+            for i in range(n):
+                for j in range(n):
+                    if i<j:
+                        x=clusteri[i]
+                        y=clusteri[j]
+                        sum=sum+similarity_matrix[x][y]
+            n=n*(n-1)/2
+            hils.append(sum/n)
+    sum=0
+    for hil in hils:
+        sum=sum+hil
+    HIT=sum/len(clusters)
+    
+    hels=[]
+    for l,clusteri in enumerate(clusters):
+        sum=0
+        for elem in clusteri:
+            maximum=-2
+            for k, clusteri2 in enumerate(clusters):
+                if l!=k:
+                    for elem2 in clusteri2:
+                        maximum=max(maximum,similarity_matrix[elem][elem2])
+            sum=sum + 1-maximum
+        hels.append(sum/len(clusteri))
+    
+    sum=0
+    if len(clusters)==1:
+        sum=1
+    else:
+        for hel in hels:
+            sum=sum+hel
+        sum=sum/len(clusters)
+    HET=sum
+    return HIT,HET
+            
+    
+        
+    
+    

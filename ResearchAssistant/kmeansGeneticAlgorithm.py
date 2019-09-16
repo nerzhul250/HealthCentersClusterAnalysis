@@ -14,6 +14,8 @@ import numpy as np
 
 #sklearn
 from sklearn import preprocessing
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 #pyclustering
 from pyclustering.cluster.center_initializer import kmeans_plusplus_initializer
@@ -22,6 +24,7 @@ from pyclustering.utils import read_sample
 #silhouette to evaluate clusterization quality
 from pyclustering.cluster.silhouette import silhouette
 
+import dataScienceUtils as ut
 
 #define basic info
 path=os.path.join(my_path,'rawDataToFormattedData\\PorCentrosDeSalud\\formattedData.txt')
@@ -35,7 +38,7 @@ sample=preprocessing.normalize(np.asarray(sample))
 
 base_individuals=100
 number_of_keis=1
-number_of_clusters_k=16
+number_of_clusters_k=7
 #Initial poblation
 def get_random_individual(sample, k):
     return kmeans_plusplus_initializer(sample,k, kmeans_plusplus_initializer.FARTHEST_CENTER_CANDIDATE).initialize()
@@ -83,11 +86,24 @@ for t in range(30):
     poblation.sort(key=custom_sort)
     poblation=poblation[:base_individuals]
 
-
+print("")
+#sillhouete score
 print(poblation[0][1])
 print(len(poblation[0][0]))
+
 kmeans_instance = kmeans(sample,poblation[0][0])
 kmeans_instance.process()
 clusters = kmeans_instance.get_clusters()
 for clusteri in clusters:
     print(clusteri)
+
+cosine_similarities_matrix=cosine_similarity(sample)
+
+print("")
+#Homogeneidad interna total y heterogeneidad externa total
+HIT,HET=ut.get_HIT_HET(clusters,cosine_similarities_matrix)
+
+print(HIT)
+print(HET)
+print(abs(HIT-HET))
+print(HIT+HET)
