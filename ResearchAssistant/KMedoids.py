@@ -41,7 +41,7 @@ sample=preprocessing.normalize(np.asarray(sample))
 distances=ut.get_distance_matrix(sample)
 
 # set k initial medoids
-k=4
+k=6
 
 print("Numero de Clusters:")
 print(k)
@@ -109,3 +109,6 @@ print("Plotting ussing SVD dimensionality reduction")
 svd = TruncatedSVD()
 samples_embedded=svd.fit_transform(sample)
 ut.plot_clusters(clusters,samples_embedded)
+
+
+

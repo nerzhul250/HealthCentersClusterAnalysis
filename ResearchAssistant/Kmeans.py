@@ -16,6 +16,8 @@ import numpy as np
 from sklearn.manifold import TSNE
 from sklearn import preprocessing
 from sklearn.decomposition import TruncatedSVD
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 #pyclustering
 from pyclustering.cluster.center_initializer import kmeans_plusplus_initializer
@@ -108,3 +110,14 @@ print("Plotting ussing SVD dimensionality reduction")
 svd = TruncatedSVD()
 samples_embedded=svd.fit_transform(sample)
 ut.plot_clusters(clusters,samples_embedded)
+
+cosine_similarities_matrix=cosine_similarity(sample)
+
+
+HIT,HET=ut.get_HIT_HET(clusters,cosine_similarities_matrix)
+
+print(HIT)
+print(HET)
+print(abs(HIT-HET))
+print(HIT+HET)
+
