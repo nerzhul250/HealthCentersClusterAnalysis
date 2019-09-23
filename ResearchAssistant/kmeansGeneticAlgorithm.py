@@ -27,7 +27,7 @@ from pyclustering.cluster.silhouette import silhouette
 import dataScienceUtils as ut
 
 #define basic info
-path=os.path.join(my_path,'rawDataToFormattedData\\PorCentrosDeSalud\\formattedData.txt')
+path=os.path.join(my_path,'rawDataToFormattedData\\PorVariablesDeEstudio\\formattedData.txt')
 
 
 # load list of points for cluster analysis
@@ -48,7 +48,7 @@ def compute_score(individual,sample):
     kmeans_instance.process()
     clusters = kmeans_instance.get_clusters()
     dirtyscore = silhouette(sample, clusters).process().get_score()
-    score=[x for x in dirtyscore if str(x)!='nan']
+    score=[x if str(x)!='nan' else 0 for x in dirtyscore]
     return np.mean(np.asarray(score))
 
 poblation=[get_random_individual(sample,k)  for i in range(base_individuals) for k in range(number_of_clusters_k,number_of_keis+number_of_clusters_k)]
@@ -106,4 +106,3 @@ HIT,HET=ut.get_HIT_HET(clusters,cosine_similarities_matrix)
 print(HIT)
 print(HET)
 print(abs(HIT-HET))
-print(HIT+HET)
