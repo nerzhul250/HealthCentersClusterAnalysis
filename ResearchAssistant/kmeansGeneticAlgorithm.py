@@ -38,7 +38,7 @@ sample=preprocessing.normalize(np.asarray(sample))
 
 base_individuals=100
 number_of_keis=1
-number_of_clusters_k=7
+number_of_clusters_k=14
 #Initial poblation
 def get_random_individual(sample, k):
     return kmeans_plusplus_initializer(sample,k, kmeans_plusplus_initializer.FARTHEST_CENTER_CANDIDATE).initialize()
@@ -88,7 +88,6 @@ for t in range(30):
 
 print("")
 #sillhouete score
-print(poblation[0][1])
 print(len(poblation[0][0]))
 
 kmeans_instance = kmeans(sample,poblation[0][0])
@@ -103,6 +102,8 @@ print("")
 #Homogeneidad interna total y heterogeneidad externa total
 HIT,HET=ut.get_HIT_HET(clusters,cosine_similarities_matrix)
 
+
+print(poblation[0][1])
 print(HIT)
 print(HET)
 print(abs(HIT-HET))
