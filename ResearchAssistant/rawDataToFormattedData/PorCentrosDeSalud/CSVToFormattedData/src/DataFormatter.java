@@ -9,7 +9,7 @@ public class DataFormatter {
 	public static void main(String[] args) throws IOException {
 		BufferedWriter bw=new BufferedWriter(new FileWriter("rawData.txt"));
 		for (int i = 0; i < 22; i++) {
-			BufferedReader br=new BufferedReader(new FileReader("C:\\Users\\asus\\Documents\\GitHub\\SeventhSemester\\ResearchAssistant\\CVSFILES\\"+i+".csv"));
+			BufferedReader br=new BufferedReader(new FileReader("C:\\Users\\asus\\Documents\\GitHub\\HealthCentersClusterAnalysis\\ResearchAssistant\\rawDataToFormattedData\\PorCentrosDeSalud\\CSVFILES\\"+i+".csv"));
 		
 			br.readLine();//trash
 			for (int j = 0; j < 27; j++) {
