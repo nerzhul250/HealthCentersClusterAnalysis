@@ -27,7 +27,7 @@ from pyclustering.cluster.silhouette import silhouette
 import dataScienceUtils as ut
 
 #define basic info
-path=os.path.join(my_path,'rawDataToFormattedData\\PorCentrosDeSalud\\formattedData.txt')
+path=os.path.join(my_path,'rawDataToFormattedData\\PorCentrosDeSalud\\formattedData2.txt')
 
 
 # load list of points for cluster analysis
@@ -38,7 +38,7 @@ sample=preprocessing.normalize(np.asarray(sample))
 
 base_individuals=100
 number_of_keis=1
-number_of_clusters_k=9
+number_of_clusters_k=5
 #Initial poblation
 def get_random_individual(sample, k):
     return kmeans_plusplus_initializer(sample,k, kmeans_plusplus_initializer.FARTHEST_CENTER_CANDIDATE).initialize()
