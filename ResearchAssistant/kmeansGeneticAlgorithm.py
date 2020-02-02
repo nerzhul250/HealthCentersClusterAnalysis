@@ -21,6 +21,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from pyclustering.cluster.center_initializer import kmeans_plusplus_initializer
 from pyclustering.cluster.kmeans import kmeans
 from pyclustering.utils import read_sample
+
 #silhouette to evaluate clusterization quality
 from pyclustering.cluster.silhouette import silhouette
 
@@ -28,7 +29,6 @@ import dataScienceUtils as ut
 
 #define basic info
 path=os.path.join(my_path,'rawDataToFormattedData\\PorCentrosDeSalud\\formattedData2.txt')
-
 
 # load list of points for cluster analysis
 sample = read_sample(path)
@@ -38,7 +38,7 @@ sample=preprocessing.normalize(np.asarray(sample))
 
 base_individuals=100
 number_of_keis=1
-number_of_clusters_k=5
+number_of_clusters_k=4
 #Initial poblation
 def get_random_individual(sample, k):
     return kmeans_plusplus_initializer(sample,k, kmeans_plusplus_initializer.FARTHEST_CENTER_CANDIDATE).initialize()
@@ -67,7 +67,7 @@ def cross(individual1,individual2):
     new_individual=[]
     for i in range(minimum_length):
         new_individual.append((individual1[0][i]+individual2[0][i])/2)
-    for i in range(minimum_length+1,int((minimum_length+maximum_length)/2)):
+    for i in range(minimum_length+1,(minimum_length+maximum_length)//2):
         if len(individual1[0])==maximum_length:
             new_individual.append(individual1[0][i])
         else:
@@ -97,7 +97,6 @@ print(poblation[0][1])
 for clusteri in clusters:
     print(clusteri)
     
-
 cosine_similarities_matrix=cosine_similarity(sample)
 
 print("")
