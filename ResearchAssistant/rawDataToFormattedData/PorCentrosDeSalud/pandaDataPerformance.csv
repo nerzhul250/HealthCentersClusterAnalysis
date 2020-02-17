@@ -1,0 +1,551 @@
+EVA,NU,CN,AV,NE,MV,CS,SI,HOSPITAL,ID
+Acceso_consulta,0,5,13,0,4,40,88,CSB,0
+Acceso_consulta,0,5,7,0,3,12,13,CSBA,1
+Acceso_consulta,0,0,12,0,32,17,30,CSBS,2
+Acceso_consulta,0,4,3,0,1,22,9,CSCA,3
+Acceso_consulta,0,8,26,0,18,32,6,CSCAL,4
+Acceso_consulta,0,13,4,0,2,11,12,CSCO,5
+Acceso_consulta,0,1,3,0,1,16,10,CSGU,6
+Acceso_consulta,6,4,10,1,8,38,33,CSME,7
+Acceso_consulta,0,2,6,0,1,12,9,CSMI,8
+Acceso_consulta,0,10,22,0,11,40,85,CSMO,9
+Acceso_consulta,0,11,14,1,25,29,10,CSPR,10
+Acceso_consulta,0,17,6,0,2,7,2,CSQAN,11
+Acceso_consulta,0,4,10,0,3,14,0,CSQCN,12
+Acceso_consulta,0,26,10,0,3,26,0,CSQMD,13
+Acceso_consulta,15,31,52,2,15,32,85,CSSI,14
+Acceso_consulta,9,2,5,0,7,12,43,CSTE,15
+Acceso_consulta,0,10,17,0,11,47,5,CSTO,16
+Acceso_consulta,4,4,11,0,3,10,18,Hospital CAÑ,17
+Acceso_consulta,0,55,59,1,10,29,75,Hospital FPS,18
+Acceso_consulta,9,12,13,0,7,6,5,Hospital GUA,19
+Acceso_consulta,0,14,11,0,2,5,6,Hospital LAP,20
+Acceso_consulta,2,9,7,0,6,4,2,Hospital PM,21
+Acceso_programación consulta,8,10,18,1,17,47,49,CSB,0
+Acceso_programación consulta,0,9,4,0,5,5,17,CSBA,1
+Acceso_programación consulta,0,1,12,0,31,11,36,CSBS,2
+Acceso_programación consulta,0,5,4,0,1,18,11,CSCA,3
+Acceso_programación consulta,1,11,15,1,21,30,11,CSCAL,4
+Acceso_programación consulta,0,9,5,0,2,10,16,CSCO,5
+Acceso_programación consulta,0,0,2,0,1,5,23,CSGU,6
+Acceso_programación consulta,49,16,11,6,5,4,9,CSME,7
+Acceso_programación consulta,0,1,1,0,4,10,14,CSMI,8
+Acceso_programación consulta,16,24,30,1,12,37,48,CSMO,9
+Acceso_programación consulta,0,5,17,0,24,35,9,CSPR,10
+Acceso_programación consulta,0,9,5,0,4,4,12,CSQAN,11
+Acceso_programación consulta,2,8,11,0,4,5,1,CSQCN,12
+Acceso_programación consulta,3,32,10,0,7,13,0,CSQMD,13
+Acceso_programación consulta,112,21,25,13,11,7,43,CSSI,14
+Acceso_programación consulta,36,9,3,15,0,5,10,CSTE,15
+Acceso_programación consulta,0,7,8,0,7,50,18,CSTO,16
+Acceso_programación consulta,26,9,6,4,1,2,2,Hospital CAÑ,17
+Acceso_programación consulta,22,88,50,4,14,18,33,Hospital FPS,18
+Acceso_programación consulta,6,3,6,1,4,7,25,Hospital GUA,19
+Acceso_programación consulta,3,11,9,0,2,5,8,Hospital LAP,20
+Acceso_programación consulta,3,14,4,0,3,3,3,Hospital PM,21
+Acceso_fin de semana,109,4,9,25,0,3,0,CSB,0
+Acceso_fin de semana,0,0,0,1,0,0,39,CSBA,1
+Acceso_fin de semana,20,2,3,0,2,3,61,CSBS,2
+Acceso_fin de semana,0,0,0,0,0,0,39,CSCA,3
+Acceso_fin de semana,9,0,0,0,0,2,79,CSCAL,4
+Acceso_fin de semana,0,0,0,0,0,0,42,CSCO,5
+Acceso_fin de semana,0,0,0,0,0,0,31,CSGU,6
+Acceso_fin de semana,70,2,2,19,0,1,6,CSME,7
+Acceso_fin de semana,0,0,0,2,0,0,28,CSMI,8
+Acceso_fin de semana,140,0,3,18,0,0,7,CSMO,9
+Acceso_fin de semana,0,0,0,0,0,0,90,CSPR,10
+Acceso_fin de semana,15,0,1,0,0,0,18,CSQAN,11
+Acceso_fin de semana,0,9,0,7,0,0,15,CSQCN,12
+Acceso_fin de semana,1,27,0,10,0,0,27,CSQMD,13
+Acceso_fin de semana,86,5,9,43,0,3,86,CSSI,14
+Acceso_fin de semana,39,3,3,25,0,0,8,CSTE,15
+Acceso_fin de semana,0,0,1,0,0,0,89,CSTO,16
+Acceso_fin de semana,21,2,1,9,0,5,12,Hospital CAÑ,17
+Acceso_fin de semana,8,1,6,47,1,160,6,Hospital FPS,18
+Acceso_fin de semana,11,9,5,6,1,2,18,Hospital GUA,19
+Acceso_fin de semana,2,3,0,0,1,4,28,Hospital LAP,20
+Acceso_fin de semana,1,2,0,0,1,0,26,Hospital PM,21
+Acceso_tiempo de atención,7,13,10,0,70,35,15,CSB,0
+Acceso_tiempo de atención,0,1,5,0,5,7,22,CSBA,1
+Acceso_tiempo de atención,2,5,47,0,34,3,0,CSBS,2
+Acceso_tiempo de atención,1,1,5,0,5,3,24,CSCA,3
+Acceso_tiempo de atención,11,10,18,0,33,18,0,CSCAL,4
+Acceso_tiempo de atención,0,1,4,0,5,5,27,CSCO,5
+Acceso_tiempo de atención,0,4,9,0,4,2,12,CSGU,6
+Acceso_tiempo de atención,29,16,14,1,16,18,6,CSME,7
+Acceso_tiempo de atención,0,2,4,0,5,0,19,CSMI,8
+Acceso_tiempo de atención,17,27,12,0,60,34,18,CSMO,9
+Acceso_tiempo de atención,34,23,24,0,6,3,0,CSPR,10
+Acceso_tiempo de atención,0,2,10,0,3,3,16,CSQAN,11
+Acceso_tiempo de atención,0,5,7,0,0,4,15,CSQCN,12
+Acceso_tiempo de atención,0,1,8,0,3,4,49,CSQMD,13
+Acceso_tiempo de atención,101,32,29,3,21,15,31,CSSI,14
+Acceso_tiempo de atención,43,5,11,1,7,8,3,CSTE,15
+Acceso_tiempo de atención,5,22,11,0,29,23,0,CSTO,16
+Acceso_tiempo de atención,16,11,6,0,13,3,1,Hospital CAÑ,17
+Acceso_tiempo de atención,2,17,17,14,42,136,1,Hospital FPS,18
+Acceso_tiempo de atención,29,9,7,0,5,1,1,Hospital GUA,19
+Acceso_tiempo de atención,28,3,2,0,4,1,0,Hospital LAP,20
+Acceso_tiempo de atención,18,7,3,0,1,1,0,Hospital PM,21
+Acceso_medicamentos,35,23,7,4,15,43,23,CSB,0
+Acceso_medicamentos,11,5,4,0,19,1,0,CSBA,1
+Acceso_medicamentos,4,8,14,0,29,36,0,CSBS,2
+Acceso_medicamentos,24,0,4,0,6,4,1,CSCA,3
+Acceso_medicamentos,36,22,7,0,20,5,0,CSCAL,4
+Acceso_medicamentos,17,3,3,0,13,5,1,CSCO,5
+Acceso_medicamentos,13,1,2,0,12,3,0,CSGU,6
+Acceso_medicamentos,43,13,4,7,12,11,10,CSME,7
+Acceso_medicamentos,13,1,3,0,12,1,0,CSMI,8
+Acceso_medicamentos,33,20,7,2,36,53,17,CSMO,9
+Acceso_medicamentos,26,18,19,1,20,6,0,CSPR,10
+Acceso_medicamentos,18,3,1,0,11,1,0,CSQAN,11
+Acceso_medicamentos,23,2,3,0,3,0,0,CSQCN,12
+Acceso_medicamentos,43,4,2,0,12,4,0,CSQMD,13
+Acceso_medicamentos,115,20,15,8,29,28,17,CSSI,14
+Acceso_medicamentos,47,4,4,6,11,4,2,CSTE,15
+Acceso_medicamentos,40,21,6,0,18,5,0,CSTO,16
+Acceso_medicamentos,14,7,6,4,5,7,7,Hospital CAÑ,17
+Acceso_medicamentos,13,147,5,6,45,13,0,Hospital FPS,18
+Acceso_medicamentos,13,2,2,0,10,7,18,Hospital GUA,19
+Acceso_medicamentos,1,10,2,0,14,8,3,Hospital LAP,20
+Acceso_medicamentos,1,11,1,0,6,9,2,Hospital PM,21
+Acceso_laboratorio,0,4,11,8,6,36,85,CSB,0
+Acceso_laboratorio,0,0,0,0,1,1,38,CSBA,1
+Acceso_laboratorio,0,2,8,0,18,36,27,CSBS,2
+Acceso_laboratorio,0,0,2,1,3,2,31,CSCA,3
+Acceso_laboratorio,0,0,2,1,3,10,74,CSCAL,4
+Acceso_laboratorio,0,0,4,4,0,1,33,CSCO,5
+Acceso_laboratorio,0,0,0,2,1,0,28,CSGU,6
+Acceso_laboratorio,5,3,6,11,2,5,68,CSME,7
+Acceso_laboratorio,0,0,2,0,0,1,27,CSMI,8
+Acceso_laboratorio,0,7,8,6,10,27,110,CSMO,9
+Acceso_laboratorio,0,0,6,2,18,25,39,CSPR,10
+Acceso_laboratorio,0,0,1,2,2,1,28,CSQAN,11
+Acceso_laboratorio,0,0,4,1,3,5,18,CSQCN,12
+Acceso_laboratorio,0,0,5,0,4,9,47,CSQMD,13
+Acceso_laboratorio,2,3,1,15,1,5,205,CSSI,14
+Acceso_laboratorio,1,0,1,3,0,3,70,CSTE,15
+Acceso_laboratorio,0,3,12,0,4,15,56,CSTO,16
+Acceso_laboratorio,0,0,0,4,0,5,41,Hospital CAÑ,17
+Acceso_laboratorio,0,8,14,15,9,170,13,Hospital FPS,18
+Acceso_laboratorio,1,0,6,0,4,9,32,Hospital GUA,19
+Acceso_laboratorio,2,6,10,0,2,9,9,Hospital LAP,20
+Acceso_laboratorio,0,5,9,1,4,7,4,Hospital PM,21
+Acceso_ especialista,0,14,16,47,14,25,34,CSB,0
+Acceso_ especialista,0,0,3,15,3,2,17,CSBA,1
+Acceso_ especialista,7,20,37,2,16,4,5,CSBS,2
+Acceso_ especialista,0,1,8,8,2,1,19,CSCA,3
+Acceso_ especialista,1,22,35,9,7,8,8,CSCAL,4
+Acceso_ especialista,0,5,6,21,0,1,9,CSCO,5
+Acceso_ especialista,0,2,5,13,0,0,11,CSGU,6
+Acceso_ especialista,7,3,6,41,2,10,31,CSME,7
+Acceso_ especialista,1,2,4,6,4,2,11,CSMI,8
+Acceso_ especialista,12,19,18,30,7,31,51,CSMO,9
+Acceso_ especialista,0,12,37,4,23,7,7,CSPR,10
+Acceso_ especialista,1,4,3,10,2,1,13,CSQAN,11
+Acceso_ especialista,0,1,6,11,2,2,9,CSQCN,12
+Acceso_ especialista,0,1,11,28,5,3,17,CSQMD,13
+Acceso_ especialista,16,8,5,113,4,23,63,CSSI,14
+Acceso_ especialista,9,1,4,28,2,6,28,CSTE,15
+Acceso_ especialista,0,35,25,5,13,10,2,CSTO,16
+Acceso_ especialista,5,9,4,12,4,10,6,Hospital CAÑ,17
+Acceso_ especialista,1,13,33,18,18,109,37,Hospital FPS,18
+Acceso_ especialista,3,3,4,33,3,1,5,Hospital GUA,19
+Acceso_ especialista,5,16,8,6,1,1,1,Hospital LAP,20
+Acceso_ especialista,0,10,4,12,3,1,0,Hospital PM,21
+Acceso_cirugía,1,7,6,121,2,5,8,CSB,0
+Acceso_cirugía,0,0,2,29,1,1,7,CSBA,1
+Acceso_cirugía,44,21,14,5,3,0,4,CSBS,2
+Acceso_cirugía,0,1,2,30,0,2,4,CSCA,3
+Acceso_cirugía,1,4,5,55,3,7,15,CSCAL,4
+Acceso_cirugía,0,1,2,29,1,0,9,CSCO,5
+Acceso_cirugía,0,0,1,23,1,0,6,CSGU,6
+Acceso_cirugía,9,0,1,78,0,3,9,CSME,7
+Acceso_cirugía,0,1,1,14,0,1,13,CSMI,8
+Acceso_cirugía,14,10,3,129,2,2,8,CSMO,9
+Acceso_cirugía,0,1,2,40,7,18,22,CSPR,10
+Acceso_cirugía,1,1,1,21,1,1,8,CSQAN,11
+Acceso_cirugía,0,0,0,25,0,2,4,CSQCN,12
+Acceso_cirugía,0,0,0,55,0,2,8,CSQMD,13
+Acceso_cirugía,11,2,2,186,2,7,22,CSSI,14
+Acceso_cirugía,9,2,0,53,0,0,14,CSTE,15
+Acceso_cirugía,0,1,7,44,3,22,13,CSTO,16
+Acceso_cirugía,4,2,0,37,2,3,2,Hospital CAÑ,17
+Acceso_cirugía,1,3,12,132,2,59,20,Hospital FPS,18
+Acceso_cirugía,3,1,3,41,2,1,1,Hospital GUA,19
+Acceso_cirugía,0,6,3,27,1,1,0,Hospital LAP,20
+Acceso_cirugía,0,0,0,27,2,1,0,Hospital PM,21
+Puerta de entrada_Consulta,0,1,4,1,4,7,133,CSB,0
+Puerta de entrada_Consulta,0,0,1,0,0,1,38,CSBA,1
+Puerta de entrada_Consulta,0,0,4,0,8,0,79,CSBS,2
+Puerta de entrada_Consulta,1,0,1,0,0,0,37,CSCA,3
+Puerta de entrada_Consulta,0,0,0,0,2,5,83,CSCAL,4
+Puerta de entrada_Consulta,0,0,2,0,0,0,40,CSCO,5
+Puerta de entrada_Consulta,0,0,1,0,0,0,30,CSGU,6
+Puerta de entrada_Consulta,7,1,2,2,0,4,84,CSME,7
+Puerta de entrada_Consulta,0,0,1,0,0,0,29,CSMI,8
+Puerta de entrada_Consulta,1,1,5,0,4,2,155,CSMO,9
+Puerta de entrada_Consulta,0,0,9,0,1,0,80,CSPR,10
+Puerta de entrada_Consulta,0,0,2,0,0,1,31,CSQAN,11
+Puerta de entrada_Consulta,0,0,1,0,0,5,25,CSQCN,12
+Puerta de entrada_Consulta,0,0,0,0,0,9,56,CSQMD,13
+Puerta de entrada_Consulta,9,1,9,2,5,14,192,CSSI,14
+Puerta de entrada_Consulta,4,0,3,0,1,7,63,CSTE,15
+Puerta de entrada_Consulta,0,0,0,0,0,5,85,CSTO,16
+Puerta de entrada_Consulta,3,4,3,0,0,4,36,Hospital CAÑ,17
+Puerta de entrada_Consulta,0,3,46,1,3,155,21,Hospital FPS,18
+Puerta de entrada_Consulta,0,0,2,0,3,4,43,Hospital GUA,19
+Puerta de entrada_Consulta,2,1,5,0,3,15,12,Hospital LAP,20
+Puerta de entrada_Consulta,1,1,0,0,5,12,11,Hospital PM,21
+Puerta de entrada_Examenes,0,0,7,0,5,5,133,CSB,0
+Puerta de entrada_Examenes,0,0,1,0,0,1,38,CSBA,1
+Puerta de entrada_Examenes,1,0,15,0,9,2,64,CSBS,2
+Puerta de entrada_Examenes,1,0,1,0,0,0,37,CSCA,3
+Puerta de entrada_Examenes,0,0,1,0,2,5,82,CSCAL,4
+Puerta de entrada_Examenes,0,0,2,0,0,0,40,CSCO,5
+Puerta de entrada_Examenes,0,0,1,0,0,0,30,CSGU,6
+Puerta de entrada_Examenes,2,2,2,2,0,4,88,CSME,7
+Puerta de entrada_Examenes,0,0,1,0,0,0,29,CSMI,8
+Puerta de entrada_Examenes,0,1,6,0,4,1,156,CSMO,9
+Puerta de entrada_Examenes,0,0,9,0,1,0,80,CSPR,10
+Puerta de entrada_Examenes,0,0,2,0,0,1,31,CSQAN,11
+Puerta de entrada_Examenes,0,0,1,0,0,4,26,CSQCN,12
+Puerta de entrada_Examenes,0,0,0,0,0,9,56,CSQMD,13
+Puerta de entrada_Examenes,9,0,8,3,6,14,192,CSSI,14
+Puerta de entrada_Examenes,4,2,2,0,1,7,62,CSTE,15
+Puerta de entrada_Examenes,0,0,0,0,0,5,85,CSTO,16
+Puerta de entrada_Examenes,1,3,2,1,1,6,36,Hospital CAÑ,17
+Puerta de entrada_Examenes,2,3,36,1,2,159,26,Hospital FPS,18
+Puerta de entrada_Examenes,0,0,2,0,3,4,43,Hospital GUA,19
+Puerta de entrada_Examenes,0,1,5,0,3,14,15,Hospital LAP,20
+Puerta de entrada_Examenes,1,1,0,0,5,12,11,Hospital PM,21
+Puerta de entrada_Especilista,1,0,0,23,1,2,123,CSB,0
+Puerta de entrada_Especilista,0,0,1,0,0,1,38,CSBA,1
+Puerta de entrada_Especilista,0,0,1,0,5,2,83,CSBS,2
+Puerta de entrada_Especilista,1,0,1,0,0,0,37,CSCA,3
+Puerta de entrada_Especilista,0,0,1,0,2,5,82,CSCAL,4
+Puerta de entrada_Especilista,0,0,2,0,0,0,40,CSCO,5
+Puerta de entrada_Especilista,0,0,1,0,0,0,30,CSGU,6
+Puerta de entrada_Especilista,2,2,2,2,0,5,87,CSME,7
+Puerta de entrada_Especilista,0,0,1,0,0,0,29,CSMI,8
+Puerta de entrada_Especilista,0,0,1,9,0,1,157,CSMO,9
+Puerta de entrada_Especilista,0,0,9,0,1,0,80,CSPR,10
+Puerta de entrada_Especilista,0,0,2,0,0,1,31,CSQAN,11
+Puerta de entrada_Especilista,0,0,1,0,0,4,26,CSQCN,12
+Puerta de entrada_Especilista,0,0,0,0,0,9,56,CSQMD,13
+Puerta de entrada_Especilista,4,0,9,12,5,21,181,CSSI,14
+Puerta de entrada_Especilista,3,1,2,0,1,5,66,CSTE,15
+Puerta de entrada_Especilista,0,0,0,0,0,5,85,CSTO,16
+Puerta de entrada_Especilista,3,2,5,3,0,4,33,Hospital CAÑ,17
+Puerta de entrada_Especilista,0,4,37,5,3,155,25,Hospital FPS,18
+Puerta de entrada_Especilista,0,0,1,21,2,1,27,Hospital GUA,19
+Puerta de entrada_Especilista,0,1,5,0,3,14,15,Hospital LAP,20
+Puerta de entrada_Especilista,0,0,0,0,5,13,12,Hospital PM,21
+Vínculo_atención médico,1,0,14,1,30,22,82,CSB,0
+Vínculo_atención médico,0,10,16,0,9,3,2,CSBA,1
+Vínculo_atención médico,0,4,44,0,39,3,1,CSBS,2
+Vínculo_atención médico,0,6,18,0,6,5,4,CSCA,3
+Vínculo_atención médico,0,13,33,0,10,14,20,CSCAL,4
+Vínculo_atención médico,0,12,16,0,2,6,6,CSCO,5
+Vínculo_atención médico,1,2,20,0,4,3,1,CSGU,6
+Vínculo_atención médico,18,12,23,1,14,12,20,CSME,7
+Vínculo_atención médico,0,12,11,0,4,1,2,CSMI,8
+Vínculo_atención médico,1,14,30,0,29,29,65,CSMO,9
+Vínculo_atención médico,0,8,12,0,24,25,21,CSPR,10
+Vínculo_atención médico,0,4,13,0,6,4,7,CSQAN,11
+Vínculo_atención médico,0,5,7,0,1,9,9,CSQCN,12
+Vínculo_atención médico,0,23,15,0,6,20,1,CSQMD,13
+Vínculo_atención médico,37,42,60,2,10,23,58,CSSI,14
+Vínculo_atención médico,9,9,29,1,8,12,10,CSTE,15
+Vínculo_atención médico,0,6,18,0,10,30,26,CSTO,16
+Vínculo_atención médico,11,12,15,3,2,2,5,Hospital CAÑ,17
+Vínculo_atención médico,4,77,44,4,10,46,44,Hospital FPS,18
+Vínculo_atención médico,1,3,27,0,13,3,5,Hospital GUA,19
+Vínculo_atención médico,0,19,13,0,1,4,1,Hospital LAP,20
+Vínculo_atención médico,0,14,7,0,1,7,1,Hospital PM,21
+Vínculo_acceso al profesional de salud,0,1,5,1,1,12,130,CSB,0
+Vínculo_acceso al profesional de salud,0,0,2,0,1,3,34,CSBA,1
+Vínculo_acceso al profesional de salud,0,4,28,0,31,16,12,CSBS,2
+Vínculo_acceso al profesional de salud,0,0,1,0,1,1,36,CSCA,3
+Vínculo_acceso al profesional de salud,0,5,3,5,2,6,69,CSCAL,4
+Vínculo_acceso al profesional de salud,0,4,1,0,2,1,34,CSCO,5
+Vínculo_acceso al profesional de salud,0,1,5,0,0,0,25,CSGU,6
+Vínculo_acceso al profesional de salud,2,3,10,2,10,12,61,CSME,7
+Vínculo_acceso al profesional de salud,0,1,3,1,1,3,21,CSMI,8
+Vínculo_acceso al profesional de salud,1,4,5,0,0,10,148,CSMO,9
+Vínculo_acceso al profesional de salud,0,3,3,2,8,14,60,CSPR,10
+Vínculo_acceso al profesional de salud,0,1,1,0,1,4,27,CSQAN,11
+Vínculo_acceso al profesional de salud,0,0,2,0,0,5,24,CSQCN,12
+Vínculo_acceso al profesional de salud,0,2,8,1,1,6,47,CSQMD,13
+Vínculo_acceso al profesional de salud,0,13,42,1,12,16,148,CSSI,14
+Vínculo_acceso al profesional de salud,0,1,9,1,4,8,55,CSTE,15
+Vínculo_acceso al profesional de salud,0,2,2,7,0,3,76,CSTO,16
+Vínculo_acceso al profesional de salud,0,4,8,1,5,8,24,Hospital CAÑ,17
+Vínculo_acceso al profesional de salud,0,6,15,7,5,171,25,Hospital FPS,18
+Vínculo_acceso al profesional de salud,1,1,5,0,4,7,34,Hospital GUA,19
+Vínculo_acceso al profesional de salud,0,5,14,0,13,6,0,Hospital LAP,20
+Vínculo_acceso al profesional de salud,0,0,5,0,12,10,3,Hospital PM,21
+Vínculo_ tiempo para resolver dudas,0,0,5,0,1,13,131,CSB,0
+Vínculo_ tiempo para resolver dudas,0,0,1,0,1,3,35,CSBA,1
+Vínculo_ tiempo para resolver dudas,0,4,8,0,12,25,42,CSBS,2
+Vínculo_ tiempo para resolver dudas,0,0,1,0,0,0,38,CSCA,3
+Vínculo_ tiempo para resolver dudas,0,0,4,0,2,3,81,CSCAL,4
+Vínculo_ tiempo para resolver dudas,0,1,6,0,3,1,31,CSCO,5
+Vínculo_ tiempo para resolver dudas,0,1,8,0,0,2,20,CSGU,6
+Vínculo_ tiempo para resolver dudas,0,0,7,1,3,7,82,CSME,7
+Vínculo_ tiempo para resolver dudas,0,0,3,0,4,4,19,CSMI,8
+Vínculo_ tiempo para resolver dudas,0,0,2,0,2,5,159,CSMO,9
+Vínculo_ tiempo para resolver dudas,0,0,2,1,11,16,60,CSPR,10
+Vínculo_ tiempo para resolver dudas,0,0,1,0,1,2,30,CSQAN,11
+Vínculo_ tiempo para resolver dudas,0,0,0,0,0,6,25,CSQCN,12
+Vínculo_ tiempo para resolver dudas,0,0,9,0,3,4,49,CSQMD,13
+Vínculo_ tiempo para resolver dudas,0,6,14,0,3,29,180,CSSI,14
+Vínculo_ tiempo para resolver dudas,0,1,2,0,5,5,65,CSTE,15
+Vínculo_ tiempo para resolver dudas,0,0,7,0,2,0,81,CSTO,16
+Vínculo_ tiempo para resolver dudas,0,5,2,0,0,11,32,Hospital CAÑ,17
+Vínculo_ tiempo para resolver dudas,0,8,18,1,8,177,17,Hospital FPS,18
+Vínculo_ tiempo para resolver dudas,1,1,5,0,4,7,34,Hospital GUA,19
+Vínculo_ tiempo para resolver dudas,0,5,13,0,6,12,2,Hospital LAP,20
+Vínculo_ tiempo para resolver dudas,1,5,2,0,8,7,7,Hospital PM,21
+Vínculo_entendimiento a preguntas del usuario,0,0,4,0,3,8,135,CSB,0
+Vínculo_entendimiento a preguntas del usuario,0,0,0,0,3,3,34,CSBA,1
+Vínculo_entendimiento a preguntas del usuario,0,7,8,0,13,16,47,CSBS,2
+Vínculo_entendimiento a preguntas del usuario,0,0,1,0,3,0,35,CSCA,3
+Vínculo_entendimiento a preguntas del usuario,0,0,0,0,1,1,88,CSCAL,4
+Vínculo_entendimiento a preguntas del usuario,0,1,3,0,5,0,33,CSCO,5
+Vínculo_entendimiento a preguntas del usuario,0,1,1,0,0,2,27,CSGU,6
+Vínculo_entendimiento a preguntas del usuario,0,0,6,1,2,7,84,CSME,7
+Vínculo_entendimiento a preguntas del usuario,0,0,3,0,1,3,23,CSMI,8
+Vínculo_entendimiento a preguntas del usuario,0,0,2,0,1,6,159,CSMO,9
+Vínculo_entendimiento a preguntas del usuario,0,0,1,0,6,17,66,CSPR,10
+Vínculo_entendimiento a preguntas del usuario,0,0,0,0,2,2,30,CSQAN,11
+Vínculo_entendimiento a preguntas del usuario,0,0,1,0,2,3,25,CSQCN,12
+Vínculo_entendimiento a preguntas del usuario,0,0,3,0,1,4,57,CSQMD,13
+Vínculo_entendimiento a preguntas del usuario,0,4,13,0,1,27,187,CSSI,14
+Vínculo_entendimiento a preguntas del usuario,0,0,1,0,3,10,64,CSTE,15
+Vínculo_entendimiento a preguntas del usuario,0,0,0,0,0,1,89,CSTO,16
+Vínculo_entendimiento a preguntas del usuario,0,4,2,0,1,4,39,Hospital CAÑ,17
+Vínculo_entendimiento a preguntas del usuario,0,0,6,2,9,204,8,Hospital FPS,18
+Vínculo_entendimiento a preguntas del usuario,1,1,5,0,4,7,34,Hospital GUA,19
+Vínculo_entendimiento a preguntas del usuario,0,1,1,0,7,12,17,Hospital LAP,20
+Vínculo_entendimiento a preguntas del usuario,0,0,4,0,3,7,16,Hospital PM,21
+Vínculo_ respuestas claras por parte del personal,0,1,3,0,1,8,137,CSB,0
+Vínculo_ respuestas claras por parte del personal,0,0,2,0,3,2,33,CSBA,1
+Vínculo_ respuestas claras por parte del personal,0,6,10,0,15,13,47,CSBS,2
+Vínculo_ respuestas claras por parte del personal,0,0,1,0,2,0,36,CSCA,3
+Vínculo_ respuestas claras por parte del personal,0,0,0,0,1,2,87,CSCAL,4
+Vínculo_ respuestas claras por parte del personal,0,1,5,0,4,0,32,CSCO,5
+Vínculo_ respuestas claras por parte del personal,0,1,2,0,1,1,26,CSGU,6
+Vínculo_ respuestas claras por parte del personal,0,0,6,1,2,8,83,CSME,7
+Vínculo_ respuestas claras por parte del personal,0,0,4,0,2,3,21,CSMI,8
+Vínculo_ respuestas claras por parte del personal,0,0,3,0,1,4,160,CSMO,9
+Vínculo_ respuestas claras por parte del personal,0,0,0,0,3,5,82,CSPR,10
+Vínculo_ respuestas claras por parte del personal,0,0,0,0,2,2,30,CSQAN,11
+Vínculo_ respuestas claras por parte del personal,0,0,2,0,0,4,25,CSQCN,12
+Vínculo_ respuestas claras por parte del personal,0,0,4,0,2,3,56,CSQMD,13
+Vínculo_ respuestas claras por parte del personal,0,5,12,0,1,27,187,CSSI,14
+Vínculo_ respuestas claras por parte del personal,0,0,1,0,3,11,63,CSTE,15
+Vínculo_ respuestas claras por parte del personal,0,0,0,0,0,1,89,CSTO,16
+Vínculo_ respuestas claras por parte del personal,0,4,2,0,1,9,34,Hospital CAÑ,17
+Vínculo_ respuestas claras por parte del personal,0,0,17,2,3,195,12,Hospital FPS,18
+Vínculo_ respuestas claras por parte del personal,1,1,5,0,4,7,34,Hospital GUA,19
+Vínculo_ respuestas claras por parte del personal,0,1,11,0,1,9,16,Hospital LAP,20
+Vínculo_ respuestas claras por parte del personal,0,1,3,0,1,8,17,Hospital PM,21
+Coordinación_ examenes Laboratorio,30,4,10,5,1,3,97,CSB,0
+Coordinación_ examenes Laboratorio,0,0,4,0,0,0,36,CSBA,1
+Coordinación_ examenes Laboratorio,0,0,1,0,3,3,84,CSBS,2
+Coordinación_ examenes Laboratorio,0,2,2,0,0,0,35,CSCA,3
+Coordinación_ examenes Laboratorio,0,0,1,0,1,2,86,CSCAL,4
+Coordinación_ examenes Laboratorio,0,0,1,0,0,0,41,CSCO,5
+Coordinación_ examenes Laboratorio,0,0,0,0,0,0,31,CSGU,6
+Coordinación_ examenes Laboratorio,0,0,7,8,9,14,62,CSME,7
+Coordinación_ examenes Laboratorio,0,0,0,0,0,1,29,CSMI,8
+Coordinación_ examenes Laboratorio,7,7,4,1,1,7,141,CSMO,9
+Coordinación_ examenes Laboratorio,0,0,0,0,0,1,89,CSPR,10
+Coordinación_ examenes Laboratorio,0,0,0,1,0,1,32,CSQAN,11
+Coordinación_ examenes Laboratorio,0,1,0,0,0,3,27,CSQCN,12
+Coordinación_ examenes Laboratorio,0,0,1,0,0,1,63,CSQMD,13
+Coordinación_ examenes Laboratorio,0,3,4,15,23,28,159,CSSI,14
+Coordinación_ examenes Laboratorio,0,0,1,2,4,4,67,CSTE,15
+Coordinación_ examenes Laboratorio,0,8,8,0,0,11,63,CSTO,16
+Coordinación_ examenes Laboratorio,0,0,5,6,9,9,21,Hospital CAÑ,17
+Coordinación_ examenes Laboratorio,0,1,0,3,1,216,8,Hospital FPS,18
+Coordinación_ examenes Laboratorio,4,1,0,0,0,2,45,Hospital GUA,19
+Coordinación_ examenes Laboratorio,0,4,4,0,5,4,21,Hospital LAP,20
+Coordinación_ examenes Laboratorio,0,1,2,1,2,5,19,Hospital PM,21
+Coordinación_ consulta de control,34,8,8,5,1,0,94,CSB,0
+Coordinación_ consulta de control,0,2,5,0,0,0,33,CSBA,1
+Coordinación_ consulta de control,0,1,2,0,1,1,86,CSBS,2
+Coordinación_ consulta de control,0,1,1,0,0,0,37,CSCA,3
+Coordinación_ consulta de control,0,0,5,0,2,0,83,CSCAL,4
+Coordinación_ consulta de control,0,2,1,1,0,1,37,CSCO,5
+Coordinación_ consulta de control,0,1,2,0,0,2,26,CSGU,6
+Coordinación_ consulta de control,0,0,5,8,6,11,70,CSME,7
+Coordinación_ consulta de control,0,0,0,0,0,1,29,CSMI,8
+Coordinación_ consulta de control,15,2,1,2,5,2,141,CSMO,9
+Coordinación_ consulta de control,0,1,1,0,2,7,79,CSPR,10
+Coordinación_ consulta de control,0,0,0,1,0,0,33,CSQAN,11
+Coordinación_ consulta de control,0,0,0,0,0,1,30,CSQCN,12
+Coordinación_ consulta de control,0,3,2,0,0,2,58,CSQMD,13
+Coordinación_ consulta de control,1,4,4,16,6,14,187,CSSI,14
+Coordinación_ consulta de control,0,1,3,3,6,3,62,CSTE,15
+Coordinación_ consulta de control,0,2,9,0,4,6,69,CSTO,16
+Coordinación_ consulta de control,1,0,7,4,3,10,25,Hospital CAÑ,17
+Coordinación_ consulta de control,0,6,10,4,1,195,13,Hospital FPS,18
+Coordinación_ consulta de control,27,2,0,0,0,2,21,Hospital GUA,19
+Coordinación_ consulta de control,0,6,12,0,7,7,6,Hospital LAP,20
+Coordinación_ consulta de control,0,1,4,1,11,4,9,Hospital PM,21
+Coordinación_remisión a consulta especializada,0,0,4,50,1,7,88,CSB,0
+Coordinación_remisión a consulta especializada,0,0,0,19,2,0,19,CSBA,1
+Coordinación_remisión a consulta especializada,3,2,8,9,7,0,62,CSBS,2
+Coordinación_remisión a consulta especializada,0,0,0,9,0,0,30,CSCA,3
+Coordinación_remisión a consulta especializada,0,1,1,18,2,1,67,CSCAL,4
+Coordinación_remisión a consulta especializada,0,0,0,20,1,0,21,CSCO,5
+Coordinación_remisión a consulta especializada,0,0,0,13,2,0,16,CSGU,6
+Coordinación_remisión a consulta especializada,3,0,1,51,2,4,39,CSME,7
+Coordinación_remisión a consulta especializada,0,1,3,6,1,0,19,CSMI,8
+Coordinación_remisión a consulta especializada,1,0,1,44,0,2,120,CSMO,9
+Coordinación_remisión a consulta especializada,0,1,0,9,0,0,80,CSPR,10
+Coordinación_remisión a consulta especializada,0,1,0,10,0,0,23,CSQAN,11
+Coordinación_remisión a consulta especializada,1,0,0,13,0,0,17,CSQCN,12
+Coordinación_remisión a consulta especializada,0,0,0,32,0,0,33,CSQMD,13
+Coordinación_remisión a consulta especializada,1,2,1,117,3,11,97,CSSI,14
+Coordinación_remisión a consulta especializada,1,0,0,31,1,2,43,CSTE,15
+Coordinación_remisión a consulta especializada,0,0,0,7,1,0,82,CSTO,16
+Coordinación_remisión a consulta especializada,3,1,3,21,0,4,18,Hospital CAÑ,17
+Coordinación_remisión a consulta especializada,0,1,3,5,3,212,5,Hospital FPS,18
+Coordinación_remisión a consulta especializada,0,1,1,33,1,1,15,Hospital GUA,19
+Coordinación_remisión a consulta especializada,0,2,1,8,0,5,22,Hospital LAP,20
+Coordinación_remisión a consulta especializada,5,0,0,11,0,2,12,Hospital PM,21
+Coordinación_información para remisión a otro nivel,21,10,6,52,4,6,51,CSB,0
+Coordinación_información para remisión a otro nivel,0,1,0,19,2,0,18,CSBA,1
+Coordinación_información para remisión a otro nivel,26,9,21,9,19,2,5,CSBS,2
+Coordinación_información para remisión a otro nivel,0,2,1,9,2,0,25,CSCA,3
+Coordinación_información para remisión a otro nivel,0,6,16,18,12,2,36,CSCAL,4
+Coordinación_información para remisión a otro nivel,0,2,7,20,1,1,11,CSCO,5
+Coordinación_información para remisión a otro nivel,0,0,2,13,3,0,13,CSGU,6
+Coordinación_información para remisión a otro nivel,1,3,4,54,2,14,22,CSME,7
+Coordinación_información para remisión a otro nivel,1,6,2,6,0,0,15,CSMI,8
+Coordinación_información para remisión a otro nivel,13,5,8,44,7,6,85,CSMO,9
+Coordinación_información para remisión a otro nivel,2,15,14,9,15,7,28,CSPR,10
+Coordinación_información para remisión a otro nivel,0,2,2,10,1,0,19,CSQAN,11
+Coordinación_información para remisión a otro nivel,0,0,0,14,0,1,16,CSQCN,12
+Coordinación_información para remisión a otro nivel,0,2,4,32,0,2,25,CSQMD,13
+Coordinación_información para remisión a otro nivel,8,5,14,117,8,24,56,CSSI,14
+Coordinación_información para remisión a otro nivel,1,0,4,31,3,11,28,CSTE,15
+Coordinación_información para remisión a otro nivel,0,19,10,7,13,16,25,CSTO,16
+Coordinación_información para remisión a otro nivel,3,3,5,21,3,7,8,Hospital CAÑ,17
+Coordinación_información para remisión a otro nivel,0,17,29,6,5,158,14,Hospital FPS,18
+Coordinación_información para remisión a otro nivel,2,3,5,33,2,1,6,Hospital GUA,19
+Coordinación_información para remisión a otro nivel,3,8,9,8,6,1,3,Hospital LAP,20
+Coordinación_información para remisión a otro nivel,0,0,7,17,3,2,1,Hospital PM,21
+Coordinación_obtención de cita en otro nivel,19,13,13,53,6,7,39,CSB,0
+Coordinación_obtención de cita en otro nivel,4,2,2,19,4,0,9,CSBA,1
+Coordinación_obtención de cita en otro nivel,34,12,20,9,9,2,5,CSBS,2
+Coordinación_obtención de cita en otro nivel,1,3,3,9,0,1,22,CSCA,3
+Coordinación_obtención de cita en otro nivel,0,5,25,18,9,4,29,CSCAL,4
+Coordinación_obtención de cita en otro nivel,0,2,8,20,1,1,10,CSCO,5
+Coordinación_obtención de cita en otro nivel,0,0,3,13,2,0,13,CSGU,6
+Coordinación_obtención de cita en otro nivel,13,8,6,54,2,10,7,CSME,7
+Coordinación_obtención de cita en otro nivel,0,2,0,6,1,0,21,CSMI,8
+Coordinación_obtención de cita en otro nivel,11,6,14,44,5,7,81,CSMO,9
+Coordinación_obtención de cita en otro nivel,0,27,21,9,15,7,11,CSPR,10
+Coordinación_obtención de cita en otro nivel,0,3,6,10,6,0,9,CSQAN,11
+Coordinación_obtención de cita en otro nivel,0,1,1,14,0,0,15,CSQCN,12
+Coordinación_obtención de cita en otro nivel,0,1,7,32,2,4,19,CSQMD,13
+Coordinación_obtención de cita en otro nivel,32,17,16,117,5,13,32,CSSI,14
+Coordinación_obtención de cita en otro nivel,14,12,12,31,4,4,1,CSTE,15
+Coordinación_obtención de cita en otro nivel,0,14,14,7,17,18,20,CSTO,16
+Coordinación_obtención de cita en otro nivel,4,3,6,22,6,6,3,Hospital CAÑ,17
+Coordinación_obtención de cita en otro nivel,1,24,30,7,11,136,20,Hospital FPS,18
+Coordinación_obtención de cita en otro nivel,7,1,3,33,2,2,4,Hospital GUA,19
+Coordinación_obtención de cita en otro nivel,8,13,4,8,4,1,0,Hospital LAP,20
+Coordinación_obtención de cita en otro nivel,2,3,2,17,4,1,1,Hospital PM,21
+Coordinación_entrega de información entre niveles-referencia,2,1,0,53,0,2,92,CSB,0
+Coordinación_entrega de información entre niveles-referencia,0,0,0,19,4,1,16,CSBA,1
+Coordinación_entrega de información entre niveles-referencia,1,2,12,9,17,16,34,CSBS,2
+Coordinación_entrega de información entre niveles-referencia,0,0,2,9,0,0,28,CSCA,3
+Coordinación_entrega de información entre niveles-referencia,0,0,1,18,2,11,58,CSCAL,4
+Coordinación_entrega de información entre niveles-referencia,0,3,1,20,2,0,16,CSCO,5
+Coordinación_entrega de información entre niveles-referencia,0,0,1,13,2,2,13,CSGU,6
+Coordinación_entrega de información entre niveles-referencia,0,1,2,54,2,6,35,CSME,7
+Coordinación_entrega de información entre niveles-referencia,0,0,0,6,0,0,24,CSMI,8
+Coordinación_entrega de información entre niveles-referencia,4,0,1,46,0,2,115,CSMO,9
+Coordinación_entrega de información entre niveles-referencia,0,2,1,9,0,8,70,CSPR,10
+Coordinación_entrega de información entre niveles-referencia,0,2,2,10,0,0,20,CSQAN,11
+Coordinación_entrega de información entre niveles-referencia,0,0,0,14,0,0,17,CSQCN,12
+Coordinación_entrega de información entre niveles-referencia,0,1,3,32,0,2,27,CSQMD,13
+Coordinación_entrega de información entre niveles-referencia,1,2,10,117,5,23,74,CSSI,14
+Coordinación_entrega de información entre niveles-referencia,0,1,5,31,2,8,31,CSTE,15
+Coordinación_entrega de información entre niveles-referencia,0,1,2,7,2,11,67,CSTO,16
+Coordinación_entrega de información entre niveles-referencia,3,1,2,24,2,4,14,Hospital CAÑ,17
+Coordinación_entrega de información entre niveles-referencia,0,6,13,1,2,199,8,Hospital FPS,18
+Coordinación_entrega de información entre niveles-referencia,0,1,1,33,2,3,12,Hospital GUA,19
+Coordinación_entrega de información entre niveles-referencia,0,3,7,8,0,9,11,Hospital LAP,20
+Coordinación_entrega de información entre niveles-referencia,0,1,0,17,1,4,7,Hospital PM,21
+Coordinación_ información desde otro nivel de atención-contrareferencia,7,3,3,53,2,3,79,CSB,0
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,19,4,0,17,CSBA,1
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,1,10,9,18,15,38,CSBS,2
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,9,0,0,30,CSCA,3
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,1,1,18,2,3,65,CSCAL,4
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,20,1,0,21,CSCO,5
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,1,13,2,0,15,CSGU,6
+Coordinación_ información desde otro nivel de atención-contrareferencia,1,2,2,54,2,9,30,CSME,7
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,6,0,1,23,CSMI,8
+Coordinación_ información desde otro nivel de atención-contrareferencia,7,2,1,49,1,1,107,CSMO,9
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,1,0,9,0,7,73,CSPR,10
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,10,0,2,22,CSQAN,11
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,14,0,2,15,CSQCN,12
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,0,32,0,3,30,CSQMD,13
+Coordinación_ información desde otro nivel de atención-contrareferencia,1,4,10,118,4,24,71,CSSI,14
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,2,5,31,2,10,28,CSTE,15
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,1,0,7,0,7,75,CSTO,16
+Coordinación_ información desde otro nivel de atención-contrareferencia,4,1,1,22,2,4,16,Hospital CAÑ,17
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,2,14,1,5,201,6,Hospital FPS,18
+Coordinación_ información desde otro nivel de atención-contrareferencia,4,2,2,34,2,1,7,Hospital GUA,19
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,5,8,13,8,4,Hospital LAP,20
+Coordinación_ información desde otro nivel de atención-contrareferencia,0,0,1,17,6,4,2,Hospital PM,21
+Coordinación_ información sobre el estado de salud,15,7,5,53,0,4,66,CSB,0
+Coordinación_ información sobre el estado de salud,0,0,0,19,3,0,18,CSBA,1
+Coordinación_ información sobre el estado de salud,0,1,9,9,16,16,40,CSBS,2
+Coordinación_ información sobre el estado de salud,0,0,0,9,0,0,30,CSCA,3
+Coordinación_ información sobre el estado de salud,0,1,1,18,2,5,63,CSCAL,4
+Coordinación_ información sobre el estado de salud,0,0,0,20,1,0,21,CSCO,5
+Coordinación_ información sobre el estado de salud,0,0,1,13,1,1,15,CSGU,6
+Coordinación_ información sobre el estado de salud,0,3,5,53,0,11,28,CSME,7
+Coordinación_ información sobre el estado de salud,0,0,0,6,0,1,23,CSMI,8
+Coordinación_ información sobre el estado de salud,12,2,0,49,0,4,101,CSMO,9
+Coordinación_ información sobre el estado de salud,0,1,0,9,1,3,76,CSPR,10
+Coordinación_ información sobre el estado de salud,0,0,0,10,0,2,22,CSQAN,11
+Coordinación_ información sobre el estado de salud,0,0,0,14,0,2,15,CSQCN,12
+Coordinación_ información sobre el estado de salud,0,0,0,32,0,7,26,CSQMD,13
+Coordinación_ información sobre el estado de salud,1,2,8,118,4,26,73,CSSI,14
+Coordinación_ información sobre el estado de salud,1,1,5,31,3,9,28,CSTE,15
+Coordinación_ información sobre el estado de salud,0,0,0,7,0,14,69,CSTO,16
+Coordinación_ información sobre el estado de salud,3,1,1,21,2,6,16,Hospital CAÑ,17
+Coordinación_ información sobre el estado de salud,1,3,7,1,4,207,6,Hospital FPS,18
+Coordinación_ información sobre el estado de salud,4,3,2,34,1,2,6,Hospital GUA,19
+Coordinación_ información sobre el estado de salud,0,0,10,8,5,5,10,Hospital LAP,20
+Coordinación_ información sobre el estado de salud,0,0,3,17,4,5,1,Hospital PM,21
+Coordinación_Atención en el primer nivel contra referencia,4,2,3,53,3,7,78,CSB,0
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,19,4,0,17,CSBA,1
+Coordinación_Atención en el primer nivel contra referencia,0,2,7,9,10,19,44,CSBS,2
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,9,0,0,30,CSCA,3
+Coordinación_Atención en el primer nivel contra referencia,0,1,1,18,2,5,63,CSCAL,4
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,20,1,0,21,CSCO,5
+Coordinación_Atención en el primer nivel contra referencia,0,0,1,13,1,1,15,CSGU,6
+Coordinación_Atención en el primer nivel contra referencia,0,3,3,53,0,8,33,CSME,7
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,6,0,1,23,CSMI,8
+Coordinación_Atención en el primer nivel contra referencia,4,1,3,49,0,3,108,CSMO,9
+Coordinación_Atención en el primer nivel contra referencia,0,1,0,9,1,5,74,CSPR,10
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,10,0,2,22,CSQAN,11
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,14,1,5,11,CSQCN,12
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,32,0,8,25,CSQMD,13
+Coordinación_Atención en el primer nivel contra referencia,1,1,9,118,4,27,72,CSSI,14
+Coordinación_Atención en el primer nivel contra referencia,0,1,5,31,3,9,29,CSTE,15
+Coordinación_Atención en el primer nivel contra referencia,0,0,0,7,0,13,70,CSTO,16
+Coordinación_Atención en el primer nivel contra referencia,1,1,3,22,0,9,14,Hospital CAÑ,17
+Coordinación_Atención en el primer nivel contra referencia,0,20,33,2,11,133,30,Hospital FPS,18
+Coordinación_Atención en el primer nivel contra referencia,4,2,2,34,2,1,7,Hospital GUA,19
+Coordinación_Atención en el primer nivel contra referencia,0,4,5,8,13,4,4,Hospital LAP,20
+Coordinación_Atención en el primer nivel contra referencia,0,1,4,17,3,4,1,Hospital PM,21
